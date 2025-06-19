@@ -1,8 +1,30 @@
 # 👋 Hi, I’m @vanshika-arya
 
-- 👀 I’m interested in software development, data structures, web development, and space tech.
-- 🌱 I’m currently learning Data Structures & Algorithms, C++, and web development.
-- 💞️ I’m looking to collaborate on open-source projects, hackathons, and tech communities.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vanshika-arya-3719772ba) | Email: vanshika3915@gmail.com
-- 😄 Pronouns: She/Her
-- Let's connect, learn, and build together!
+Sometimes I write code.  
+Sometimes I just sit and learn.  
+Mostly, I just keep going — quietly. 🤍
+
+---
+
+## 🛠 I work with:
+- C, C++
+- Java
+- HTML, CSS
+- Git & GitHub
+
+---
+
+## 🌱 These days, I'm:
+- Practicing DSA
+- Exploring the web
+- Learning at my own pace
+
+---
+
+## 📫 You can find me here:
+📧 Email: vanshika3915@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/vanshika-arya-3719772ba
+
+---
+
+That's all for now. Hope you're building something you're proud of. 🌸
