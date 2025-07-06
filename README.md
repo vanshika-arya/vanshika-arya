@@ -10,8 +10,6 @@ Mostly, I just keep going — quietly. 🤍
 - C, C++
 - Java
 - HTML, CSS
-- Git & GitHub
-
 ----
 
 ## 🌱 These days, I'm:
