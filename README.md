@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @vanshika-arya
 
-Sometimes I write code.  
+Sometimes I write code.
 Sometimes I just sit and learn.  
 Mostly, I just keep going — quietly. 🤍
 
