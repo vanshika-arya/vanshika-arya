@@ -9,7 +9,7 @@ Sometimes I write code. Sometimes I just sit and learn. Mostly, I just keep goin
 
 - 🎓 **Education:** Computer Science and Engineering Undergraduate
 - 📍 **Location:** Jabalpur, India
-- ⚡ **Fun Fact:** I love building tools that bridge the gap between technology and accessibility.
+
 
 ---
 
